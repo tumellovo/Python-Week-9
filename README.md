@@ -18,7 +18,7 @@ This repo includes:
 
 - `exception_handling.py` - Where I practiced taming runtime errors.
 - `functions.py` - Because reusable code is the best code.
-- `math_operations.py` -
+- `math_operations.py` - As the name suggests, where I did the math operations.
 - `modules.py` & `modules_builtin.py` - Custom and built-in modules, side by side.
 
 ---
