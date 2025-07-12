@@ -1,6 +1,6 @@
 ## Python - Week 9
 
-Welcome to Week 9 of my Python journey!
+Welcome to Week 9 of my 9-week web development journey! We're finally here, we made it to the last week like we knew we would!
 
 ---
 
